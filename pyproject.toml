@@ -13,6 +13,11 @@ transformers = "^4.25.1"
 python-box = "^6.1.0"
 pytorch-lightning = "^1.8.6"
 scikit-learn = "^1.2.0"
+wandb = "^0.13.8"
+sumeval = "^0.2.2"
+mecab-python3 = "^1.0.6"
+sacrebleu = {version = "<2.0.0", extras = ["ja"]}
+unidic-lite = "^1.0.8"
 
 
 [build-system]
